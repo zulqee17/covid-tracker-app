@@ -1,6 +1,8 @@
 # covid_tracker_app
 
-A new Flutter project.
+A new Flutter project(Covid Tracker App).
+in this app we will track covid cases in the world.
+
 
 ## Getting Started
 
